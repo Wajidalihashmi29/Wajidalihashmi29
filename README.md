@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **full stack web development**
 
-- 📫 How to reach me **wajidalionline001@gmail.com**
+- 📫 Reach me at **wajidalionline001@gmail.com**
 
 - ⚡ Fun fact **obsessed with Harry Potter**
 
