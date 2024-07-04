@@ -2,7 +2,7 @@
 <h3 align="center"> Final Year CSE Hons. student with specilization in AI/ML</h3>
 
 
-  <img  withd="100" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3dGVrOGk5dXg3OXludDRvNzM1am1janFsbGxqZjFoZXpuajYwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Alt Text" autoplay loop>
+<img  align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3dGVrOGk5dXg3OXludDRvNzM1am1janFsbGxqZjFoZXpuajYwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="400" alt="Alt Text" autoplay loop>
 
 
 
@@ -37,5 +37,5 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svgg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
 </p>
